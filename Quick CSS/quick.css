@@ -3,6 +3,7 @@
 @import url("./containers/containers.css");
 @import url("./components/buttons/buttons.css");
 @import url("./colors.css");
+@import url("./components/navbar/navbars.css");
 
 :root {
     /* Thanks to https://flatuicolors.com/palette/defo for the colors! */
@@ -24,13 +25,20 @@
     --flat-cyan: #34495e;
     --flat-dark-cyan: #2c3e50;
 
-    /* Alternative Names | Not recommended to use*/
-    --amethyst: var(--flat-purple);
-    --sea-blue: var(--flat-dark-turquoise);
+    /* Background variables - These can be used for themes. You can override them if you want */
+    --background-primary: #eee8e8;
+    --background-secondary: #e2dcdc;
+    --accent-color: var(--flat-blue);
+    --primary-text-color: #000;
+    --secondary-text-color: #2e2e2e;
 }
 
+/** Sets the default properties*/
 body {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+    color: var(--primary-text-color);
 }
