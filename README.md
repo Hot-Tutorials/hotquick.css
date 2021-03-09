@@ -6,5 +6,9 @@ Copy and paste this into your `<head>`:
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Hot-Tutorials/Quick-CSS@master/Quick%20CSS/quick.css">
 ```
+Or you can import it using CSS by doing:
+```css
+@import url("https://cdn.jsdelivr.net/gh/Hot-Tutorials/Quick-CSS@master/Quick%20CSS/quick.css");
+```
 ## Useful Links
 - [Documentation](https://github.com/Hot-Tutorials/Quick-CSS/tree/master/docs)
