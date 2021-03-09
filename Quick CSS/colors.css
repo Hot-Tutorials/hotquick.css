@@ -1,0 +1,96 @@
+/* h1.red, h2.red, h3.red, h4.red, h5.red, h6.red, p.red, span.red {
+    color: var(--flat-red);
+}
+h1.dark-red, h2.dark-red, h3.dark-red, h4.dark-red, h5.dark-red, h6.dark-red, p.dark-red, span.dark-red {
+    color: var(--flat-dark-red);
+}
+
+h1.orange, h2.orange, h3.orange, h4.orange, h5.orange, h6.orange, p.orange, span.orange {
+    color: var(--flat-orange);
+}
+h1.dark-orange, h2.dark-orange, h3.dark-orange, h4.dark-orange, h5.dark-orange, h6.dark-orange, p.dark-orange, span.dark-orange {
+    color: var(--flat-dark-orange);
+}
+
+h1.yellow, h2.yellow, h3.yellow, h4.yellow, h5.yellow, h6.yellow, p.yellow, span.yellow {
+    color: var(--flat-yellow);
+}
+
+h1.green, h2.green, h3.green, h4.green, h5.green, h6.green, p.green, span.green {
+    color: var(--flat-green);
+}
+h1.dark-green, h2.dark-green, h3.dark-green, h4.dark-green, h5.dark-green, h6.dark-green, p.dark-green, span.dark-green {
+    color: var(--flat-dark-green);
+}
+
+h1.turquoise, h2.turquoise, h3.turquoise, h4.turquoise, h5.turquoise, h6.turquoise, p.turquoise, span.turquoise {
+    color: var(--flat-turquoise);
+}
+h1.dark-turquoise, h2.dark-turquoise, h3.dark-turquoise, h4.dark-turquoise, h5.dark-turquoise, h6.dark-turquoise, p.dark-turquoise, span.dark-turquoise {
+    color: var(--flat-dark-turquoise);
+}
+
+h1.blue, h2.blue, h3.blue, h4.blue, h5.blue, h6.blue, p.blue, span.blue {
+    color: var(--flat-blue);
+}
+h1.dark-blue, h2.dark-blue, h3.dark-blue, h4.dark-blue, h5.dark-blue, h6.dark-blue, p.dark-blue, span.dark-blue {
+    color: var(--flat-blue);
+}
+
+h1.purple, h2.purple, h3.purple, h4.purple, h5.purple, h6.purple, p.purple, span.purple {
+    color: var(--flat-purple);
+}
+h1.dark-purple, h2.dark-purple, h3.dark-purple, h4.dark-purple, h5.dark-purple, h6.dark-purple, p.dark-purple, span.dark-purple {
+    color: var(--flat-dark-purple);
+}
+
+h1.white, h2.white, h3.white, h4.white, h5.white, h6.white, p.white, span.white {
+    color: var(--flat-white);
+}
+h1.dark-white, h2.dark-white, h3.dark-white, h4.dark-white, h5.dark-white, h6.dark-white, p.dark-white, span.dark-white {
+    color: var(--flat-dark-white);
+}
+
+h1.cyan, h2.cyan, h3.cyan, h4.cyan, h5.cyan, h6.cyan, p.cyan, span.cyan {
+    color: var(--flat-cyan);
+}
+h1.dark-cyan, h2.dark-cyan, h3.dark-cyan, h4.dark-cyan, h5.dark-cyan, h6.dark-cyan, p.dark-cyan, span.dark-cyan {
+    color: var(--flat-dark-cyan);
+}
+ */
+
+.text-red { color: var(--flat-red); }
+.text-dark-red { color: var(--flat-dark-red); }
+.text-orange { color: var(--flat-orange); }
+.text-dark-orange { color: var(--flat-dark-orange); }
+.text-yellow { color: var(--flat-yellow); }
+.text-green { color: var(--flat-green); }
+.text-dark-green { color: var(--flat-dark-green); }
+.text-turquoise { color: var(--flat-turquoise); }
+.text-dark-turquoise { color: var(--flat-dark-turquoise); }
+.text-blue { color: var(--flat-blue); }
+.text-dark-blue { color: var(--flat-dark-blue); }
+.text-purple { color: var(--flat-purple); }
+.text-dark-purple { color: var(--flat-dark-purple); }
+.text-white { color: var(--flat-white); }
+.text-dark-white { color: var(--flat-dark-white); }
+.text-cyan { color: var(--flat-cyan); }
+.text-dark-cyan { color: var(--flat-dark-cyan); }
+
+.background-red { background: var(--flat-red); }
+.background-dark-red { background: var(--flat-dark-red); }
+.background-orange { background: var(--flat-orange); }
+.background-dark-orange { background: var(--flat-dark-orange); }
+.background-yellow { background: var(--flat-yellow); }
+.background-green { background: var(--flat-green);} 
+.background-dark-green { background: var(--flat-dark-green); }
+.background-turquoise { background: var(--flat-turquoise);} 
+.background-dark-turquoise { background: var(--flat-dark-turquoise); }
+.background-blue { background: var(--flat-blue); }
+.background-dark-blue { background: var(--flat-dark-blue); }
+.background-purple { background: var(--flat-purple); }
+.background-dark-purple { background: var(--flat-dark-purple); }
+.background-white { background: var(--flat-white); }
+.background-dark-white { background: var(--flat-dark-white); }
+.background-cyan { background: var(--flat-cyan); }
+.background-dark-cyan { background: var(--flat-dark-cyan); } 

@@ -1,0 +1,31 @@
+.button {
+    background-color: var(--flat-white);
+    padding: 13px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    text-align: center;
+    transition: 0.2s;
+    -webkit-transition: 0.2s;
+    -moz-transition: 0.2s;
+    -ms-transition: 0.2s;
+    -o-transition: 0.2s;
+}
+.button:hover {
+    opacity: 0.7;
+    position: relative;
+    cursor: pointer;
+}
+.button:active {
+    transform: scale(0.95);
+    -webkit-transform: scale(0.95);
+    -moz-transform: scale(0.95);
+    -ms-transform: scale(0.95);
+    -o-transform: scale(0.95);
+}

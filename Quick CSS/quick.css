@@ -1,0 +1,36 @@
+/* Imports */
+@import url("./fonts.css");
+@import url("./containers/containers.css");
+@import url("./components/buttons/buttons.css");
+@import url("./colors.css");
+
+:root {
+    /* Thanks to https://flatuicolors.com/palette/defo for the colors! */
+    --flat-red: #e74c3c;
+    --flat-dark-red: #c0392b;
+    --flat-orange: #e67e22;
+    --flat-dark-orange: #d35400;
+    --flat-yellow: #f1c40f;
+    --flat-green: #2ecc71;
+    --flat-dark-green: #27ae60;
+    --flat-turquoise: #1abc9c;
+    --flat-dark-turquoise: #16a085;
+    --flat-blue: #3498db;
+    --flat-dark-blue: #2980b9;
+    --flat-purple: #9b59b6;
+    --flat-dark-purple: #8e44ad;
+    --flat-white: #fcfdfd;
+    --flat-dark-white: #bdc3c7;
+    --flat-cyan: #34495e;
+    --flat-dark-cyan: #2c3e50;
+
+    /* Alternative Names | Not recommended to use*/
+    --amethyst: var(--flat-purple);
+    --sea-blue: var(--flat-dark-turquoise);
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
