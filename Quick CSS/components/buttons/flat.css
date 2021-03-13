@@ -16,9 +16,13 @@
     -moz-transition: 0.2s;
     -ms-transition: 0.2s;
     -o-transition: 0.2s;
+    height: fit-content;
+    width: fit-content;
+    padding: 0.813rem 1.063rem 0.813rem 1.063rem;
+    font-size: 1rem;
 }
 .button:hover {
-    opacity: 0.7;
+    opacity: 0.9;
     position: relative;
     cursor: pointer;
 }
@@ -57,3 +61,6 @@
     -ms-transform: translateY(2px);
     -o-transform: translateY(2px);
 }
+
+.button.medium { font-size: 1.125rem; padding: 0.6rem 1rem; }
+.button.large { font-size: 1.5rem; padding: 0.938rem 1.25rem; }

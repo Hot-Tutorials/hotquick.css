@@ -1,26 +1,14 @@
 @import url("./flex.css");
-.flex {
-    display: flex;
-}
-.column {
-    flex-direction: column;
-}
-.row {
-    flex-direction: row;
-}
-.row-reverse {
-    flex-direction: row-reverse;
-}
-.column-reverse {
-    flex-direction: column-reverse;
-}
-.flex-center {
-    align-items: center;
-    justify-content: center;
-    text-align: center;
+@import url("./grid.css");
+
+.container {
+    width: 100% - 40px;
+    height: 100%;
 }
 
-@import url("./grid.css");
-.grid {
-    display: grid;
+section.fullviewport {
+    height: 100vh;
+    padding: 0px 40px;
 }
+
+
