@@ -1,9 +1,9 @@
 /* Imports */
-@import url("./fonts.css");
-@import url("./containers/containers.css");
-@import url("./components/buttons/buttons.css");
-@import url("./colors.css");
-@import url("./components/navbar/navbars.css");
+@import url("./CSS/fonts.css");
+@import url("./CSS/containers/containers.css");
+@import url("./CSS/components/buttons/buttons.css");
+@import url("./CSS/colors.css");
+@import url("./CSS/components/navbar/navbars.css");
 
 :root {
     /* Thanks to https://flatuicolors.com/palette/defo for the colors! */
