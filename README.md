@@ -12,3 +12,5 @@ Or you can import it using CSS by doing:
 ```
 ## Useful Links
 - [Documentation](https://github.com/Hot-Tutorials/Quick-CSS/tree/master/docs)
+## Using Quick CSS
+If you want to use Quick CSS, there is no need to credit it. This was meant for personal use but I wanted to allow the public to use it. Its free, no credit required. You can copy snippets of code from it as long as you don't completely copy it and rename the whole thing. 
